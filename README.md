@@ -1,8 +1,8 @@
 ### Hello  👋
 
-#I am a Freelance Web Developer
-  #with a talent for UI/UX Design
-    #and a Passion for helping people live healthy, balanced, whole lives
+## I am a Freelance Web Developer
+  ## with a talent for UI/UX Design
+    ## and a Passion for helping people live healthy, balanced, whole lives
 
 
 - 🔭 I’m currently working on E-Commerce React App, with Commerice.js API integration
